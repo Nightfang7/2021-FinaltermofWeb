@@ -1,6 +1,12 @@
+google試算表網址:
 https://docs.google.com/spreadsheets/d/1pKiNKbqg7eb63MFq2BeFFEWK7AIKBiCFOQDAj5JW_J8/edit?usp=sharing
 
 有做的部分:
 有做簡單的RWD
 GSAP小動畫
 網址判別
+留言板右下有+號可以到PO文頁
+PO文頁在article1也可以前往留言板
+
+vercel網址:
+https://2021-finaltermof-web.vercel.app/index.html
