@@ -1,0 +1,6 @@
+https://docs.google.com/spreadsheets/d/1pKiNKbqg7eb63MFq2BeFFEWK7AIKBiCFOQDAj5JW_J8/edit?usp=sharing
+
+有做的部分:
+有做簡單的RWD
+GSAP小動畫
+網址判別
